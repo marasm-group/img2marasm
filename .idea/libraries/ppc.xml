@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="lib">
+  <library name="ppc">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/lib/ppc.jar!/" />
     </CLASSES>

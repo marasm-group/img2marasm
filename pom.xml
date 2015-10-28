@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>img2marasm</groupId>
+    <artifactId>img2marasm</artifactId>
+
+    <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>ppc</groupId>
+            <artifactId>ppc</artifactId>
+            <scope>system</scope>
+            <version>1</version>
+            <systemPath>${basedir}/lib/ppc.jar</systemPath>
+        </dependency>
+    </dependencies>
+</project>
