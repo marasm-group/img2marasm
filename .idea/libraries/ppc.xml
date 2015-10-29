@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ppc">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/ppc.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
